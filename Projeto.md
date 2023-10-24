@@ -43,4 +43,4 @@ _Nota: A aplicação ***git desktop*** faz o 1º commit_
         - Captura de écran do repositório local
         - Captura de écran do repositório ***proj_ctk_button*** no ***git desktop*** 
 
-- Publicar o repositório como público com o nome ***prog_ctk_button*** no ***github*** 
+- Publicar o repositório como público com o nome ***prog_ctk_button*** no ***github*** com a seguinte descrição: ***Botão usando o customtkinter***
