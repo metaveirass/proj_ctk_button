@@ -7,13 +7,15 @@
     - sem .gitignore
     - com README.md
     - com licença MIT
-_Nota: A aplicação ***git desktop*** faz o 1º commit_	
+_Nota: A aplicação ***git desktop*** faz o 1º commit_
+    _Initial commit_
 - Usando o **terminal**, criar o ambiente virtual com o nome ***.venv*** e activar
     - python - m venv .venv
     - .\\.venv\Scripts\activate.ps1
 
 - Instalar o ***customtkinter***
     - pip install customtkinter
+    - pip install packaging
 
 - Criar os ficheiros
     - ***requirements.txt***
@@ -24,8 +26,13 @@ _Nota: A aplicação ***git desktop*** faz o 1º commit_
         - ***password.txt***
         - Acrescentar ***password.txt*** ao ficheiro ***.gitignore***
     - Criar a aplicação ***app_ctk_button.py*** com base nos links abaixo usando o VSCODE: ***code .***
-    _Nota:Fazer o 2º commit_ usando o ***git desktop*** 
+    _Nota:Fazer o 2º commit_ usando o ***git desktop***
+        _Criar a aplicação app_ctk_button.py_ 
         - Código no video: [VIDEO TKINTER:COM](https://www.youtube.com/watch?v=WE1IuPOICxE)
+        -  [customtkinter SITE](https://customtkinter.tomschimansky.com/)
+            - Copiar o código disponível na página inicial e
+            colar no VSCODE
+            -  _Nota:Fazer o 3º commit_ usando o ***git desktop*** 
         - [customtkinter REPO](https://github.com/TomSchimansky/CustomTkinter)
     - ***README.md*** com a seguinte estrutura:
         - Título do projeto
@@ -34,4 +41,4 @@ _Nota: A aplicação ***git desktop*** faz o 1º commit_
         - Captura de écran do código
         - Captura de écran do repositório local   
 
-- Criar um repositório público chamado ***prog_ctk_button*** e publicar no vosso repositório do ***github*** 
+- Publicar o repositório como público com o nome ***prog_ctk_button*** no ***github*** 
