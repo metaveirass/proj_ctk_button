@@ -40,6 +40,7 @@ _Nota: A aplicação ***git desktop*** faz o 1º commit_
         - Descrição simples do projeto
         - Captura de écran da janela do projeto a funcionar
         - Captura de écran do código
-        - Captura de écran do repositório local   
+        - Captura de écran do repositório local
+        - Captura de écran do repositório ***proj_ctk_button*** no ***git desktop*** 
 
 - Publicar o repositório como público com o nome ***prog_ctk_button*** no ***github*** 
