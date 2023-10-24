@@ -32,7 +32,8 @@ _Nota: A aplicação ***git desktop*** faz o 1º commit_
         -  [customtkinter SITE](https://customtkinter.tomschimansky.com/)
             - Copiar o código disponível na página inicial e
             colar no VSCODE
-            -  _Nota:Fazer o 3º commit_ usando o ***git desktop*** 
+            -  _Nota:Fazer o 3º commit_ usando o ***git desktop***
+                _Introdução inicial de código_ 
         - [customtkinter REPO](https://github.com/TomSchimansky/CustomTkinter)
     - ***README.md*** com a seguinte estrutura:
         - Título do projeto
