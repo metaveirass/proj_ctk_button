@@ -2,7 +2,7 @@
 
 ## Fases do projeto
 
-- Criar um repositório local chamado ***proj_ctk_button*** usando o ***git desktop***
+- Criar um repositório local chamado ***proj_ctk_button*** usando o ***git desktop*** na pasta ***teste_git***
     - sem descrição
     - sem .gitignore
     - com README.md
@@ -12,6 +12,7 @@ _Nota: A aplicação ***git desktop*** faz o 1º commit_
 - Usando o **terminal**, criar o ambiente virtual com o nome ***.venv*** e activar
     - python - m venv .venv
     - .\\.venv\Scripts\activate.ps1
+    - source .venv/bin/activate
 
 - Instalar o ***customtkinter***
     - pip install customtkinter
